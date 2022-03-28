@@ -7,4 +7,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stads_tec/)
 
 ![image](https://user-images.githubusercontent.com/91327153/160311542-19076d90-bc9b-4355-b9a4-4990269455e4.png)
-
+└ ![image](https://user-images.githubusercontent.com/91327153/160311542-19076d90-bc9b-4355-b9a4-4990269455e4.png)
