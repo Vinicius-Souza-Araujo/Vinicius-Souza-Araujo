@@ -5,7 +5,7 @@
 ### Seja bem vindo a meu GitHub! Eu sou o Vinicius, mas pode me chamar de Vini...👨‍💻✍ 
 ![Vinicius](https://github-readme-stats.vercel.app/api?username=Vinicius-Souza-Araujo&theme=blue-green)
 
-<img alt="ViniThor" src="https://github.com/Vinicius-Souza-Araujo/Vinicius-Souza-Araujo/blob/main/Gif/ViniThor.gif" width=250px> Seja você o seu próprio heroi!
+<img alt="ViniThor" src="https://github.com/Vinicius-Souza-Araujo/Vinicius-Souza-Araujo/blob/main/Gif/ViniThor.gif" width=250px>
 
 ### Tecnologias que estou conhecendo:   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
