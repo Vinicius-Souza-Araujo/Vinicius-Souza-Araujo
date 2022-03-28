@@ -4,7 +4,7 @@
 ### Hello World! Eu sou o Vinicius, mas pode me chamar de Vini...👨‍💻✍   
 ![Vinicius](https://github-readme-stats.vercel.app/api?username=Vinicius-Souza-Araujo&theme=blue-green)   
 
-##Tecnologias que conheço:
+###Tecnologias que conheço:
 
 
 
