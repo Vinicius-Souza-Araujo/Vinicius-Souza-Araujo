@@ -2,7 +2,7 @@
     
 ### Hello World!
 
-### Seja bem vindo a meu GitHub! Eu sou o Vinicius, mas pode me chamar de Vini...👨‍💻✍ 
+### Welcome to my GitHub! I'm Vinicius, but you can call me Vini...👨‍💻✍ 
     
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-064531210/)       
 ![Vinicius](https://github-readme-stats.vercel.app/api?username=Vinicius-Souza-Araujo&theme=blue-green)
