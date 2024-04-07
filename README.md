@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Souza-Araujo&theme=blue-green" alt="Top Languages" height="230">
 </p>
 
-### My Hard Skills:
 <div style="display: inline_block"><br>
     
   <img alt="HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
