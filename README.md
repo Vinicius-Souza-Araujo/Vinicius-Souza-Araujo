@@ -2,18 +2,12 @@
     
 ### Welcome to my GitHub! I'm Vinicius, but you can call me Vini...👨‍💻✍ 
     
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-064531210/)       
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-064531210/) 
 
-<table>
-  <tr>
-    <td align="center" style="padding: 8px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Souza-Araujo&theme=blue-green" alt="GitHub Stats" height="200">
-    </td>
-    <td align="center" style="padding: 8px;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Souza-Araujo&theme=blue-green" alt="Top Languages" height="230">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Souza-Araujo&theme=blue-green" alt="GitHub Stats" height="230">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Souza-Araujo&theme=blue-green" alt="Top Languages" height="230">
+</p>
 
 ### My Hard Skills:
 <div style="display: inline_block"><br>
